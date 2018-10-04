@@ -13,6 +13,8 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-swift.js'/>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-python.js'/>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-bash.js'/>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-vim.js'/>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-git.js'/>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-groovy.js'/>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/plugins/line-numbers/prism-line-numbers.js'/>
 ...
