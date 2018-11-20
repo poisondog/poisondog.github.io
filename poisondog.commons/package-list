@@ -1,4 +1,3 @@
-
 poisondog.cache
 poisondog.coding
 poisondog.command
@@ -6,8 +5,8 @@ poisondog.commons
 poisondog.commons.httpclient
 poisondog.commons.vfs
 poisondog.concurrent
-poisondog.demo
-poisondog.demo.nio
+poisondog.datasource
+poisondog.filter
 poisondog.format
 poisondog.io
 poisondog.json
@@ -16,9 +15,9 @@ poisondog.log
 poisondog.mail
 poisondog.math
 poisondog.math.function
-poisondog.math.function.activation
 poisondog.net
 poisondog.net.http
+poisondog.net.tcp
 poisondog.net.udp
 poisondog.nio
 poisondog.security
