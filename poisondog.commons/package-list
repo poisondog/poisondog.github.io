@@ -8,6 +8,7 @@ poisondog.concurrent
 poisondog.datasource
 poisondog.filter
 poisondog.format
+poisondog.ifttt
 poisondog.io
 poisondog.json
 poisondog.line.message
@@ -20,8 +21,10 @@ poisondog.net.http
 poisondog.net.tcp
 poisondog.net.udp
 poisondog.nio
+poisondog.search
 poisondog.security
 poisondog.string
+poisondog.telegram
 poisondog.tree
 poisondog.util
 poisondog.vfs
